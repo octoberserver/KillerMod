@@ -1,14 +1,14 @@
 [
 {
   "modid": "instakill",
-  "name": "很怪的模組",
-  "description": "一個很怪的模組",
+  "name": "Instant Kill",
+  "description": "A mod that adds a kill command which doesnt send a message when killing players",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["十月(三歲)", "小胖", "Danny0224"],
-  "credits": "",
+  "authorList": ["october1234"],
+  "credits": "Special thanks to Danny0224 and Camille_TW for providing the idea and testing the mod",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
