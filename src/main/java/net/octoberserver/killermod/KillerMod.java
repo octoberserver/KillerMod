@@ -1,14 +1,11 @@
 package net.octoberserver.killermod;
 
 import net.minecraft.init.Blocks;
-import net.minecraftforge.common.MinecraftForge;
-import net.minecraftforge.event.entity.player.PlayerInteractEvent;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventHandler;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLServerStartingEvent;
-import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 import org.apache.logging.log4j.Logger;
 
 @Mod(modid = KillerMod.MODID, name = KillerMod.NAME, version = KillerMod.VERSION, serverSideOnly = true, acceptableRemoteVersions = "*")
