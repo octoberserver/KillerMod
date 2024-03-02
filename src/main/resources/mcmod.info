@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "instakill",
+  "name": "很怪的模組",
+  "description": "一個很怪的模組",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["十月(三歲)", "小胖", "Danny0224"],
+  "credits": "",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
