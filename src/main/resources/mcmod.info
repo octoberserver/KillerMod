@@ -1,8 +1,8 @@
 [
 {
-  "modid": "instakill",
-  "name": "Instant Kill",
-  "description": "A mod that adds a kill command which doesnt send a message when killing players",
+  "modid": "silentkill",
+  "name": "Silent Kill",
+  "description": "A mod that adds a kill command which doesnt produce a death message",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",

@@ -1,4 +1,4 @@
-package net.octoberserver.killermod;
+package net.octoberserver.silentkill;
 
 import net.minecraft.command.CommandBase;
 import net.minecraft.command.CommandException;
@@ -11,12 +11,12 @@ import javax.annotation.Nullable;
 import java.util.Collections;
 import java.util.List;
 
-public class CommandInstaKill extends CommandBase {
-    public CommandInstaKill() {
+public class CommandSilentKill extends CommandBase {
+    public CommandSilentKill() {
     }
 
     public String getName() {
-        return "instakill";
+        return "silentkill";
     }
 
     public int getRequiredPermissionLevel() {
